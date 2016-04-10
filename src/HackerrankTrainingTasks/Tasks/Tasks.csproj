@@ -40,11 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Warmup\Staircase.cs" />
     <Compile Include="Warmup\PlusMinus.cs" />
     <Compile Include="Warmup\DiagonalDifference.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Warmup\Staircase.md" />
     <None Include="Warmup\PlusMinus.md" />
     <None Include="Warmup\DiagonalDifference.md" />
   </ItemGroup>
