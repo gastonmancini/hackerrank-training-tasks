@@ -51,6 +51,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Strings\AlternatingCharactersTest.cs" />
+    <Compile Include="Strings\TheLoveLetterMysteryTest.cs" />
     <Compile Include="Strings\PangramsTest.cs" />
     <Compile Include="Warmup\TimeConversionTest.cs" />
     <Compile Include="Warmup\StaircaseTest.cs" />

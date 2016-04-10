@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Strings\TheLoveLetterMystery.cs" />
     <Compile Include="Strings\AlternatingCharacters.cs" />
     <Compile Include="Strings\Pangrams.cs" />
     <Compile Include="Warmup\TimeConversion.cs" />
@@ -49,6 +50,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Strings\TheLoveLetterMystery.md" />
     <None Include="Strings\AlternatingCharacters.md" />
     <None Include="Strings\Pangrams.md" />
     <None Include="Warmup\TimeConversion.md" />
