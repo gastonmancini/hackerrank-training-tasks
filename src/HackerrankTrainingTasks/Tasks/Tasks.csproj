@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Strings\Anagram.cs" />
     <Compile Include="Strings\Gemstones.cs" />
     <Compile Include="Strings\FunnyString.cs" />
     <Compile Include="Strings\TheLoveLetterMystery.cs" />
@@ -52,6 +53,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Strings\Anagram.md" />
     <None Include="Strings\Gemstones.md" />
     <None Include="Strings\FunnyString.md" />
     <None Include="Strings\TheLoveLetterMystery.md" />
