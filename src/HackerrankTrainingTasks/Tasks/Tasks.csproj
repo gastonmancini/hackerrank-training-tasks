@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Strings\Gemstones.cs" />
+    <Compile Include="Strings\FunnyString.cs" />
     <Compile Include="Strings\TheLoveLetterMystery.cs" />
     <Compile Include="Strings\AlternatingCharacters.cs" />
     <Compile Include="Strings\Pangrams.cs" />
@@ -52,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Strings\Gemstones.md" />
+    <None Include="Strings\FunnyString.md" />
     <None Include="Strings\TheLoveLetterMystery.md" />
     <None Include="Strings\AlternatingCharacters.md" />
     <None Include="Strings\Pangrams.md" />
