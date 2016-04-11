@@ -51,6 +51,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Strings\AlternatingCharactersTest.cs" />
+    <Compile Include="Strings\PalindromeIndexTest.cs" />
     <Compile Include="Strings\AnagramTest.cs" />
     <Compile Include="Strings\GemstonesTest.cs" />
     <Compile Include="Strings\FunnyStringTest.cs" />
