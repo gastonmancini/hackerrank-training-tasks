@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Strings\TwoStrings.cs" />
     <Compile Include="Strings\PalindromeIndex.cs" />
     <Compile Include="Strings\Anagram.cs" />
     <Compile Include="Strings\Gemstones.cs" />
@@ -54,6 +55,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Strings\TwoStrings.md" />
     <None Include="Strings\PalindromeIndex.md" />
     <None Include="Strings\Anagram.md" />
     <None Include="Strings\Gemstones.md" />
