@@ -50,6 +50,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Sorting\InsertionSortPart1Test.cs" />
+    <Compile Include="Sorting\IntroToTutorialChallengesTest.cs" />
     <Compile Include="Strings\AlternatingCharactersTest.cs" />
     <Compile Include="Strings\MakeItAnagramTest.cs" />
     <Compile Include="Strings\GameofThronesITest.cs" />
@@ -72,6 +74,7 @@
       <Name>Tasks</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Sorting\InsertionSortPart1.cs" />
+    <Compile Include="Sorting\IntroToTutorialChallenges.cs" />
     <Compile Include="Strings\MakeItAnagram.cs" />
     <Compile Include="Strings\GameofThronesI.cs" />
     <Compile Include="Strings\TwoStrings.cs" />
@@ -57,6 +59,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Sorting\InsertionSortPart1.md" />
+    <None Include="Sorting\IntroToTutorialChallenges.md" />
     <None Include="Strings\MakeItAnagram.md" />
     <None Include="Strings\GameofThronesI.md" />
     <None Include="Strings\TwoStrings.md" />
@@ -72,6 +76,7 @@
     <None Include="Warmup\PlusMinus.md" />
     <None Include="Warmup\DiagonalDifference.md" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
