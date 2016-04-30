@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Strings\MakeItAnagram.cs" />
     <Compile Include="Strings\GameofThronesI.cs" />
     <Compile Include="Strings\TwoStrings.cs" />
     <Compile Include="Strings\PalindromeIndex.cs" />
@@ -56,6 +57,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Strings\MakeItAnagram.md" />
     <None Include="Strings\GameofThronesI.md" />
     <None Include="Strings\TwoStrings.md" />
     <None Include="Strings\PalindromeIndex.md" />
