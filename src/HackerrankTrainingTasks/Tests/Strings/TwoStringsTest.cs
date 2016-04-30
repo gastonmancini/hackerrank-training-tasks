@@ -17,13 +17,13 @@ namespace Tests.Strings
         #region Example Tests
 
         [TestMethod]
-        public void PalindromeIndex_Example_Test_1()
+        public void TwoStrings_Example_Test_1()
         {
             Assert.IsTrue(_twoStrings.solution("hello", "world"));
         }
 
         [TestMethod]
-        public void PalindromeIndex_Example_Test_2()
+        public void TwoStrings_Example_Test_2()
         {
             Assert.IsFalse(_twoStrings.solution("hi", "world"));
         }
