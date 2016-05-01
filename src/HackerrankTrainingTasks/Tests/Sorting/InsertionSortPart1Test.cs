@@ -18,7 +18,7 @@ namespace Tests.Sorting
         #region Example Tests
 
         [TestMethod]
-        public void IntroToTutorialChallenges_Example_Test_1()
+        public void InsertionSortPart1_Example_Test_1()
         {
             var arr = new [] {2, 4, 6, 8, 3 };
 
@@ -39,7 +39,7 @@ namespace Tests.Sorting
         }
 
         [TestMethod]
-        public void IntroToTutorialChallenges_Example_Test_2()
+        public void InsertionSortPart1_Example_Test_2()
         {
             var arr = new[] { 2, 3, 4, 5, 6, 7, 8, 9, 10, 1 };
 
