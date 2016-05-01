@@ -50,6 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Sorting\RunningTimeOfAlgorithmsTest.cs" />
     <Compile Include="Sorting\CorrectnessAndTheLoopInvariantTest.cs" />
     <Compile Include="Sorting\InsertionSortPart2Test.cs" />
     <Compile Include="Sorting\InsertionSortPart1Test.cs" />
