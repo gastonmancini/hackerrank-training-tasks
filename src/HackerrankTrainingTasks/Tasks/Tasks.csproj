@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Sorting\CorrectnessAndTheLoopInvariant.cs" />
     <Compile Include="Sorting\InsertionSortPart2.cs" />
     <Compile Include="Sorting\InsertionSortPart1.cs" />
     <Compile Include="Sorting\IntroToTutorialChallenges.cs" />
@@ -60,6 +61,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Sorting\CorrectnessAndTheLoopInvariant.md" />
     <None Include="Sorting\InsertionSortPart2.md" />
     <None Include="Sorting\InsertionSortPart1.md" />
     <None Include="Sorting\IntroToTutorialChallenges.md" />
