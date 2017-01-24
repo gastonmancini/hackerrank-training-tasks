@@ -50,6 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Sorting\Quicksort2SortingTest.cs" />
     <Compile Include="Sorting\Quicksort1PartitionTest.cs" />
     <Compile Include="Sorting\RunningTimeOfAlgorithmsTest.cs" />
     <Compile Include="Sorting\CorrectnessAndTheLoopInvariantTest.cs" />

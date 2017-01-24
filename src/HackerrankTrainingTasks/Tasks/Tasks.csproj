@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Sorting\Quicksort2Sorting.cs" />
     <Compile Include="Sorting\Quicksort1Partition.cs" />
     <Compile Include="Sorting\RunningTimeOfAlgorithms.cs" />
     <Compile Include="Sorting\CorrectnessAndTheLoopInvariant.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Sorting\Quicksort2Sorting.md" />
     <None Include="Sorting\Quicksort1Partition.md" />
     <None Include="Sorting\RunningTimeOfAlgorithms.md" />
     <None Include="Sorting\CorrectnessAndTheLoopInvariant.md" />
