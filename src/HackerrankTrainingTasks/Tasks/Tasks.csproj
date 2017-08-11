@@ -47,6 +47,7 @@
     <Compile Include="Sorting\InsertionSortPart2.cs" />
     <Compile Include="Sorting\InsertionSortPart1.cs" />
     <Compile Include="Sorting\IntroToTutorialChallenges.cs" />
+    <Compile Include="Strings\SuperReducedString.cs" />
     <Compile Include="Strings\MakeItAnagram.cs" />
     <Compile Include="Strings\GameofThronesI.cs" />
     <Compile Include="Strings\TwoStrings.cs" />
@@ -75,6 +76,7 @@
     <None Include="Sorting\IntroToTutorialChallenges.md" />
     <None Include="Strings\MakeItAnagram.md" />
     <None Include="Strings\GameofThronesI.md" />
+    <None Include="Strings\SuperReducedString.md" />
     <None Include="Strings\TwoStrings.md" />
     <None Include="Strings\PalindromeIndex.md" />
     <None Include="Strings\Anagram.md" />
