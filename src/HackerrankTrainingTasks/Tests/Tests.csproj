@@ -57,6 +57,7 @@
     <Compile Include="Sorting\InsertionSortPart2Test.cs" />
     <Compile Include="Sorting\InsertionSortPart1Test.cs" />
     <Compile Include="Sorting\IntroToTutorialChallengesTest.cs" />
+    <Compile Include="Strings\CamelCaseTest.cs" />
     <Compile Include="Strings\AlternatingCharactersTest.cs" />
     <Compile Include="Strings\MakeItAnagramTest.cs" />
     <Compile Include="Strings\GameofThronesITest.cs" />
